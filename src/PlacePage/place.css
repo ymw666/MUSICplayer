@@ -1,0 +1,45 @@
+.f{
+    display: flex;
+    font-size: 50px;
+    border-bottom: 1px solid #000;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.zuo{
+    width: 50%;
+}
+.shou{
+    width: 90%;
+    text-align: center;
+}
+.xin{
+    font-size: 30px;
+    
+    width: 90%;
+    
+}
+.xin1{
+    display: flex;
+    border-bottom: 1px solid #000;
+}
+.bian{
+width: 50%
+}
+.t{
+width: 50%
+}
+
+.last{
+    background-color: antiquewhite;
+    width: 100%;
+    font-size: 50px;
+    height: 130px;
+   text-align: center;
+   
+    
+}
+.d{
+    width: 150px
+}
+.h{
+    width: 550px
+}
